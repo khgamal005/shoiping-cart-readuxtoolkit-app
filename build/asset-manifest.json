@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shoiping-cart-readuxtoolkit-app/static/css/main.247ef3d7.chunk.css",
-    "main.js": "/shoiping-cart-readuxtoolkit-app/static/js/main.e53fbff5.chunk.js",
-    "main.js.map": "/shoiping-cart-readuxtoolkit-app/static/js/main.e53fbff5.chunk.js.map",
-    "runtime-main.js": "/shoiping-cart-readuxtoolkit-app/static/js/runtime-main.8aeb8559.js",
-    "runtime-main.js.map": "/shoiping-cart-readuxtoolkit-app/static/js/runtime-main.8aeb8559.js.map",
-    "static/js/2.14a48478.chunk.js": "/shoiping-cart-readuxtoolkit-app/static/js/2.14a48478.chunk.js",
-    "static/js/2.14a48478.chunk.js.map": "/shoiping-cart-readuxtoolkit-app/static/js/2.14a48478.chunk.js.map",
-    "index.html": "/shoiping-cart-readuxtoolkit-app/index.html",
-    "static/css/main.247ef3d7.chunk.css.map": "/shoiping-cart-readuxtoolkit-app/static/css/main.247ef3d7.chunk.css.map",
-    "static/js/2.14a48478.chunk.js.LICENSE.txt": "/shoiping-cart-readuxtoolkit-app/static/js/2.14a48478.chunk.js.LICENSE.txt"
+    "main.css": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/css/main.247ef3d7.chunk.css",
+    "main.js": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/main.e53fbff5.chunk.js",
+    "main.js.map": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/main.e53fbff5.chunk.js.map",
+    "runtime-main.js": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/runtime-main.eefa6fad.js",
+    "runtime-main.js.map": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/runtime-main.eefa6fad.js.map",
+    "static/js/2.14a48478.chunk.js": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/2.14a48478.chunk.js",
+    "static/js/2.14a48478.chunk.js.map": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/2.14a48478.chunk.js.map",
+    "index.html": "/shopping-cart-reduxtoolkit-app-firebase-databasey/index.html",
+    "static/css/main.247ef3d7.chunk.css.map": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/css/main.247ef3d7.chunk.css.map",
+    "static/js/2.14a48478.chunk.js.LICENSE.txt": "/shopping-cart-reduxtoolkit-app-firebase-databasey/static/js/2.14a48478.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8aeb8559.js",
+    "static/js/runtime-main.eefa6fad.js",
     "static/js/2.14a48478.chunk.js",
     "static/css/main.247ef3d7.chunk.css",
     "static/js/main.e53fbff5.chunk.js"
